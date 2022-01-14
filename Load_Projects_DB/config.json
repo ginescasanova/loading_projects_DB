@@ -1,0 +1,11 @@
+{
+    "share_point":
+        {
+	    "site":"https://charitacr.sharepoint.com/sites/Group-HPRS",
+        "projects_db_folder":"\\93-ProjectsDB_loads\\",
+        "inditracks_folder":"\\95-Individual_IndiTracks\\",
+        "supertables_folder":"\\96-Supertables\\",
+        "testing_folder":"\\97-Tests\\",
+        "selected_folder":"\\98-Data_flows_do_not_erase_or_edit\\"}
+
+}
