@@ -9,21 +9,21 @@
             "7":"TeamName_7"
             },
     "site":{
-            "1":"https://yourtenant.sharepoint.com/sites/Group-Gr",
-            "2":"https://yourtenant.sharepoint.com/sites/Group-HPRS-Zambie",
-            "3":"https://yourtenant.sharepoint.com/sites/Group-HPRS-MiddleEast",
-            "4":"https://yourtenant.sharepoint.com/sites/Group-Mo",
-            "5":"https://yourtenant.sharepoint.com/sites/Group-HPRS-Moldova",
-            "6":"https://yourtenant.sharepoint.com/sites/Group-HPRS-GRV",
-            "7":"https://yourtenant.sharepoint.com/sites/ir2"
+            "1":"https://yourtenant.sharepoint.com/sites/site_team_1",
+            "2":"https://yourtenant.sharepoint.com/sites/site_team_2",
+            "3":"https://yourtenant.sharepoint.com/sites/site_team_3",
+            "4":"https://yourtenant.sharepoint.com/sites/site_team_4",
+            "5":"https://yourtenant.sharepoint.com/sites/site_team_5",
+            "6":"https://yourtenant.sharepoint.com/sites/site_team_6",
+            "7":"https://yourtenant.sharepoint.com/sites/site_team_7"
             },
     "library":{
-            "1":"LibraryName",
-            "2":"LibraryName",
-            "3":"LibraryName",
-            "4":"LibraryName",
-            "5":"LibraryName",
-            "6":"LibraryName",
-            "7":"LibraryName"
+            "1":"LibraryName_in_site_team_1",
+            "2":"LibraryName_in_site_team_2",
+            "3":"LibraryName_in_site_team_3",
+            "4":"LibraryName_in_site_team_4",
+            "5":"LibraryName_in_site_team_5",
+            "6":"LibraryName_in_site_team_6",
+            "7":"LibraryName_in_site_team_7"
             }
 }
